@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonregister" type="id" />
+    <item name="buttonlogin" type="id" />
+    <item name="pindahrelative" type="id" />
+    <item name="pindahlogin" type="id" />
+    <item name="pindahlist" type="id" />
+</resources>
